@@ -1,5 +1,5 @@
-# Project 7 Final Trigger
-# Project 7 Final Trigger
+# Project 12 Trigger
+# Project 12 Trigger
 
 variable "aws_region" {
   default = "ap-south-1"
